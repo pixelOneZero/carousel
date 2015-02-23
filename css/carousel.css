@@ -129,11 +129,11 @@ transform:rotateY(320deg) translateZ(288px);
 
 
 #navigation {
-  left: 0px;
-  top: -135px;
-  width: 600px;
   margin: 0 auto 0 auto;
+  top: 2em;
+  text-align: center;
   position: relative;
+  width: 17em;
 }
 #navigation button {
   background-color:#000;
